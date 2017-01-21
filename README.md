@@ -2,6 +2,8 @@
 
 FunctionalRx is a collection of constructs to simplify a functional programming approach to development on Java and Android.
 
+For the RxJava 2.X version please go to [FunctionalRx2](https://github.com/pakoito/FunctionalRx2).
+
 # Rationale
 
 The base Java 7 framework does not contain most constructs to do even the simplest functional development. Given that functional programming is a paradigm that's not limited by languages, a series of libraries have been created to bridge some of the gap to others like Kotlin, Scala or Clojure.

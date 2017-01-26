@@ -36,8 +36,6 @@ A thorough description and examples of each construct can be found in the readme
 
 Each library can be added individually, or as a group by adding FunctionalRx.
 
-###RxJava 1.X
-
 Add as a dependency to your `build.gradle`
 ```groovy
 repositories {
@@ -49,6 +47,15 @@ repositories {
 dependencies {
     ...
     compile 'com.github.pakoito:FunctionalRx:1.0.0'
+    // FunctionalRx includes:
+    //compile 'com.github.pakoito:RxTuples:1.0.0'
+    //compile 'com.github.pakoito:RxSealedUnions:1.1.0'
+    //compile 'com.github.pakoito:RxMemoization:1.1.0'
+    //compile 'com.github.pakoito:RxPartialApplication:1.1.0'
+    //compile 'com.github.pakoito:RxCurrying:1.1.0'
+    //compile 'com.github.pakoito:RxFunctions:1.0.0'
+    //compile 'com.github.pakoito:RxActions:1.0.0'
+    //compile 'com.github.pakoito.RxComprehensions:rxcomprehensions:1.0.0'
     ...
 }
 ```
@@ -68,10 +75,6 @@ or to your `pom.xml`
     <version>1.0.0</version>
 </dependency>
 ```
-
-###RxJava 2.X
-
-TBD
 
 ##License
 

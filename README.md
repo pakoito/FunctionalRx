@@ -46,7 +46,7 @@ repositories {
     
 dependencies {
     ...
-    compile 'com.github.pakoito:FunctionalRx:1.0.0'
+    compile 'com.github.pakoito:FunctionalRx:1.1.0'
     // FunctionalRx includes:
     //compile 'com.github.pakoito:RxTuples:1.0.0'
     //compile 'com.github.pakoito:RxSealedUnions:1.1.0'
@@ -72,7 +72,7 @@ or to your `pom.xml`
 <dependency>
     <groupId>com.github.pakoito</groupId>
     <artifactId>FunctionalRx</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 

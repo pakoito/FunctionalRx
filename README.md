@@ -32,7 +32,7 @@ A thorough description and examples of each construct can be found in the readme
 
 [RxMemoization](https://github.com/pakoito/RxMemoization) - Simple Function result caching for RxJava
 
-##Distribution
+## Distribution
 
 Each library can be added individually, or as a group by adding FunctionalRx.
 
@@ -76,7 +76,7 @@ or to your `pom.xml`
 </dependency>
 ```
 
-##License
+## License
 
 Copyright (c) pakoito 2016
 
